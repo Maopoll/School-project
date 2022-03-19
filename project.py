@@ -1,3 +1,7 @@
-"""Komentář ke scriptu"""
+"""Komentar ke scriptu"""
 
-#dokumentační řetězec
+#dokumentacni retezec
+
+title = "Hello, World!"
+
+print(title)
